@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(24, 24, 24);
+}
+
+h1, p, h2, li {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    width: 800px;
+    height: auto;
+}
+
+a {
+    color: black;
+    background-color: white;
+}
