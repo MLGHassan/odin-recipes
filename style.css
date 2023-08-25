@@ -11,3 +11,7 @@ a {
 body {
     background-color: rgb(24, 24, 24);
 }
+
+* {
+    font-family: monospace, sans-serif;
+}
